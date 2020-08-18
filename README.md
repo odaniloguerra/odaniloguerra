@@ -10,6 +10,16 @@ JavaScript, TypeScript, HTML, CSS, React, React Native, AngularJs, NodeJs, MySQL
 
 I'm from Brazil
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaniloguerra&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=odaniloguerra&theme=dark&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
+
+
 ## Social media :mailbox_with_no_mail:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/odaniloguerra)
