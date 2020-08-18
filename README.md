@@ -1,4 +1,4 @@
-# Hi there, I'm Danilo Guerra 👋
+# Hi there, I'm Danilo Guerra 👋🏾
 I’m currently working with front-end development with AngularJs, but I'm also skilled in back-end development with nodeJs.
 
 
