@@ -1,12 +1,12 @@
 # Hi there, I'm Danilo Guerra 👋🏾
-I’m currently working with front-end development with AngularJs, but I'm also skilled in back-end development with nodeJs.
+I’m currently working with front-end development with ReactJs, but I'm also skilled in back-end development with nodeJs.
 
 
 ## About me: 
 My focus area is front-end development with React, but I'm also skilled in back-end with node. 
 
 ### Skills with: 
-JavaScript, TypeScript, HTML, CSS, React, React Native, AngularJs, NodeJs, MySQL DB, Scrum.
+JavaScript, TypeScript, HTML, CSS, ReactJs, React Native, AngularJs, NodeJs, MySQL DB, Scrum.
 
 I'm from Brazil
 
